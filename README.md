@@ -1,3 +1,3 @@
-# My Awesome Book
+# XAML.io
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+XAML stands for eXtensible Application Markup Language and is used to build UI declaratively. It is used primarily by Microsoft in their desktop and mobile platforms. More recently, it is the best way to build UI for cross platform applications using Xamarin.Forms.
